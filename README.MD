@@ -1,4 +1,4 @@
-# Documentação: Ferramenta de Stress Test em Go
+# Go Stress Test
 
 Essa aplicação CLI foi desenvolvida para realizar testes de carga em serviços web. A ferramenta permite medir a capacidade do serviço em atender um número definido de requisições simultâneas e apresenta um relatório detalhado com métricas úteis após a execução.
 
